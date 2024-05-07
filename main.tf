@@ -1,7 +1,7 @@
 # main.tf
 
 provider "aws" {
-  region = "ap-southeast-1"
+  region = "eu-west-1"
 }
 
 #variable "vpc_id" {
